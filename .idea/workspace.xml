@@ -1,78 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7693ba35-f83e-44e9-9fcb-6e074d6b5443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FinalProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/templates/app/app_home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/app/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/base_app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/course_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/course_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/course_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/do_section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/do_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/section_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/show_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/show_results_all_sections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/elearning/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/templates/main/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/templates/main/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/templates/teammembers_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/raz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/raz/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/raz/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/raz/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/images/placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/main/main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/styles/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/styles/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/styles/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/teammembers/amos_aC9wuef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/static/teammembers/lion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/create_account_success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/logged_out.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raz/templates/base.html" afterDir="false" />
-    </list>
+    <list default="true" id="7693ba35-f83e-44e9-9fcb-6e074d6b5443" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -182,7 +111,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20747218" />
