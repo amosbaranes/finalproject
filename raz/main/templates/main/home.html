@@ -1,0 +1,36 @@
+{%  extends 'base.html' %}
+
+{% block head %}
+<title>Home</title>
+{% endblock %}
+
+{% load static %}
+
+{% block body %}
+ This is {{ title }}
+
+<br/>
+<br/>
+
+<img src="{% static "main/main.jpg" %}" alt="My image"  height="200" width="200"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<H4>Team Members:</H4>
+<table>
+ <TR>
+{% for teammember in teammembers %}
+  <TD>
+   <a href="{% url 'main:dteammember' teammember.id %}">
+    <img src="{{ STATIC_URL }}/{{ teammember.Image.url }}" height="100" width="100" /><br/>
+    {{ teammember.FullName }} <br/>
+    {{ teammember.IdentityNumber }}
+   </a>
+  </TD><TD> &nbsp </TD>
+{% endfor %}
+ </TR>
+</table>
+
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>View Team Member</title>
+{% endblock %}
+
+{% block body %}
+<h1>Team Memebr Information</h1>
+<Table>
+    <TR><TD><img src="{{ STATIC_URL }}/{{ object.Image.url }}"></TD></TR>
+    <TR><TD>Full Name:</TD><TD> {{ object.FullName }}</TD></TR>
+    <TR><TD>Identity Number: </TD><TD>{{ object.IdentityNumber }}</TD></TR>
+    <TR><TD>Bio:</TD></TD><TD>{{ object.Bio }}</TD></TR>
+</Table>
+{% endblock %}

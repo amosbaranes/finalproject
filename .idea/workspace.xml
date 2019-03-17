@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7693ba35-f83e-44e9-9fcb-6e074d6b5443" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FinalProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/templates/app/app_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/base_app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/course_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/course_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/course_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/do_section.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/do_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/section_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/show_results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/templates/elearning/show_results_all_sections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/elearning/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/templates/main/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/templates/main/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/templates/teammembers_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/raz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/raz/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/raz/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/raz/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/images/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/main/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/styles/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/styles/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/styles/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/teammembers/amos_aC9wuef.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/static/teammembers/lion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/create_account_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/templates/Registration/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raz/templates/base.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>courses</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/raz/gamestore/models.py" />
+        <option value="$PROJECT_DIR$/raz/gamestore/forms.py" />
+        <option value="$PROJECT_DIR$/raz/gamestore/views.py" />
+        <option value="$PROJECT_DIR$/raz/raz/settings.py" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/index.html" />
+        <option value="$PROJECT_DIR$/raz/templates/base.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/course_detail.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/course_form.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/course_list.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/do_section.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/do_test.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/section_form.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/show_results.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/forms.py" />
+        <option value="$PROJECT_DIR$/raz/raz/urls.py" />
+        <option value="$PROJECT_DIR$/raz/elearning/urls.py" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/base_app.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/templates/elearning/show_results_all_sections.html" />
+        <option value="$PROJECT_DIR$/raz/elearning/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="raz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\FinalProject\raz\elearning\templates\elearning" />
+      <recent name="C:\FinalProject\raz\elearning\templates" />
+      <recent name="C:\FinalProject\raz" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7693ba35-f83e-44e9-9fcb-6e074d6b5443" name="Default Changelist" comment="" />
+      <created>1551088381008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551088381008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20747218" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.26287743" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/gamestore/apps.py" />
+    <entry file="file://$PROJECT_DIR$/raz/templates/Registration/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/gamestore/templates/gamestore/cart.html" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/gamestore/models.py" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/gamestore/urls.py" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/gamestore/templates/base_app.html" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/gamestore/views.py" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/urls.py" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/models.py" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/templates/gamestore/cart.html" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/forms.py" />
+    <entry file="file://$PROJECT_DIR$/raz/gamestore/views.py" />
+    <entry file="file://$PROJECT_DIR$/raz/raz/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_gamestore.zip/gamestore/urls.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_gamestore.zip/gamestore/views.py" />
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/course_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/course_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/do_section.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/section_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/show_results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/do_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/raz/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_section-5.zip/elearning/elearning/urls.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_section-3.zip/elearning/courses/views.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_section-4.zip/elearning/courses/views.py" />
+    <entry file="file://$PROJECT_DIR$/raz/elearning/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="93" lean-forward="true" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="93" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/course_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/elearning/show_results_all_sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="38" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/templates/base_app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raz/elearning/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="128" column="29" selection-start-line="128" selection-start-column="29" selection-end-line="128" selection-end-column="29" />
+          <folding>
+            <element signature="e#70#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

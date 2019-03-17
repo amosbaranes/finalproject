@@ -1,0 +1,20 @@
+{% extends "base_app.html" %}
+
+{% block head %}
+<title>Course Detail</title>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h2>{{ course.name }}</h2>
+      <ul>
+        {% for section in course.section_set.all %}
+        <li><a href="{{ section.get_absolute_url }}">{{ section }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+{% endblock %}

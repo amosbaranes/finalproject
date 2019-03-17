@@ -1,0 +1,22 @@
+{% extends "base_app.html" %}
+
+{% block head %}
+<title>Test Result</title>
+{% endblock %}
+
+{% block body %}
+<h1>Your results</h1>
+
+<p>You scored</p>
+
+{% for key, value in scores.items %}
+<ol>
+ <li>{{ key }}</li>
+  {% for s in value %}
+   <ul>
+     <li>{{ s }}</li>
+   </ul>
+  {% endfor %}
+ </ol>
+{% endfor %}
+{% endblock %}
